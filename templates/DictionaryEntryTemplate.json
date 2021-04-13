@@ -1,5 +1,8 @@
 {
-	"Language":"",
+	"Dictionary":"",
+	"Language(s)":[
+		""
+	],
 	"Word":"",
 	"Definition(s)":[
 		{
@@ -8,11 +11,11 @@
 			"Definition":"",
 			"Sentence(s)": [
 				""
-			],
-			"UpVotes":null,
-			"DownVotes":null
+			]
 
 		}
 		
-	]	
+	],
+	"UpVotes":null,
+	"DownVotes":null	
 }
