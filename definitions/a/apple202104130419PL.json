@@ -1,0 +1,22 @@
+{
+    "Author":"Patrick LaChapelle",
+    "AuthorEmail":"patlachapelle3@gmail.com",
+    "ID":"apple_202104120419PL",
+	"Language":"English",
+	"Word":"apple",
+	"Definition(s)":[
+		{
+			"Pronunciation":"Ah-pull",
+			"AudioFile":"https://fake-audio-file-dite.com",
+			"Definition":"A red or green fruit that grows on trees",
+			"Sentence(s)": [
+				"I was hungry for a sweet and healthy snack, so I chose an apple",
+				"I regularly ate apples on my way home from school, since my daily route went right by an orchard."
+			],
+			"UpVotes":1,
+			"DownVotes":0
+
+		}
+		
+	]	
+}
