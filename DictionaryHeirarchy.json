@@ -1,0 +1,25 @@
+{
+    "global":{
+        "id":"GLB000",
+        "description":"The Global dictionary which stores all words that are part of this project, aggregated across all child dictionaries",
+        "parent":null
+    },
+
+    "english":{
+        "id":"ENG000",
+        "description":"Dictionary for English words",
+        "parent":"GLB000"
+    },
+            
+    "español":{
+        "id":"ESP000",
+        "description":"Un diccionario para palabras en español.",
+        "parent":"GLB000"
+    },
+    
+    "us-english":{
+        "id":"USE000",
+        "description":"Dictionary for English words used in the United States",
+        "parent":"ENG000"
+    }
+}      
