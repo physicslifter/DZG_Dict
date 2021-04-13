@@ -1,4 +1,4 @@
-# Decentralized Dictionary of the People  
+# DZG_Dict - Decentralized Zeit Geist Dictionary 
 Document created: April 12, 2021 by Patrick LaChapelle  
 Last updated: April 12, 2021 by Patrick LaChapelle  
 ---
